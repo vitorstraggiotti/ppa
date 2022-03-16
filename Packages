@@ -1,0 +1,13 @@
+Package: cha
+Version: 3.0.0
+Architecture: all
+Essential: no
+Maintainer: Vitor Henrique A. H. S. Silva
+Filename: ./cha_3.0.0_amd64.deb
+Size: 10112
+MD5sum: b0aa150d3626d7d26474585793827981
+SHA1: 44451de92b0ce54d30ab8948538f254469e1d6a5
+SHA256: 2524277a7cbb7a81e36b7094f0faf28ff7efc6f310ddfba43e4c505ebdcd55d9
+Priority: optional
+Description: Encrypt and decrypt files using chacha algorithm
+
